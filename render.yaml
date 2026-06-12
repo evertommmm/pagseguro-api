@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: pagseguro-api
+    runtime: php
+    buildCommand: ""
+    startCommand: ""
+    plan: free
